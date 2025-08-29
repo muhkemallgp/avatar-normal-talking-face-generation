@@ -1,0 +1,13 @@
+Dataset,Condition,Model,Objective_MOS,Num_Files
+TORONTO,ALS,CosyVoice2,2.18,9
+TORONTO,ALS,XTTSv2,2.2,9
+TORONTO,ALS,YourTTS,2.2,9
+TORONTO,Stroke,CosyVoice2,2.19,11
+TORONTO,Stroke,XTTSv2,2.25,11
+TORONTO,Stroke,YourTTS,2.26,11
+VCTK,ALS,CosyVoice2,2.01,9
+VCTK,ALS,XTTSv2,2.11,9
+VCTK,ALS,YourTTS,1.96,9
+VCTK,Stroke,CosyVoice2,2.1,11
+VCTK,Stroke,XTTSv2,2.17,11
+VCTK,Stroke,YourTTS,1.99,11

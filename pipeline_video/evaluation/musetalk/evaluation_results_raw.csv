@@ -1,0 +1,2 @@
+task,speaker_id,tts_method,fid_score,csim_score,csim_std,original_video,generated_video
+task_0,A017,CosyVoice,13.045662879943848,0.9377878,0.038478076,/home/is/lathifgalih-k/research_naist/multimodal-clone/clone-video/muse-exp/MuseTalk/data/video/als-input/A017_02_BBP_NORMAL_color_25fps_6sec.mp4,/home/is/lathifgalih-k/research_naist/multimodal-clone/clone-video/muse-exp/MuseTalk/results/test_raw/v15/RAW/A017_02_BBP_NORMAL_color_25fps_6sec_CV_A017_BBP_cloned.mp4
